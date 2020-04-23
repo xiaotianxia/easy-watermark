@@ -17,5 +17,7 @@
     "url": "https://github.com/xiaotianxia/watermarkIt/issues"
   },
   "homepage": "https://github.com/xiaotianxia/watermarkIt#readme",
-  "dependencies": {}
+  "dependencies": {
+    "easy-watermark": "^1.0.1"
+  }
 }

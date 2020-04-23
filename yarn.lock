@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+easy-watermark@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/easy-watermark/-/easy-watermark-1.0.1.tgz#88966911ba3203358bdc4e936ec6c83dba055db2"
+  integrity sha512-Itrf5ZmSA0s/moYZyHGRMD2i9qBB4TojFtEd5/gx55W1LC8+/+IBK34+LcaBMgNAXzoMCt0QS98wYiVsxrl9dg==

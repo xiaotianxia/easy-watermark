@@ -3,7 +3,7 @@ npm install easy-watermark
 ```
 
 ```js
-import { watermarkIt } from '../lib/watermark-it.min.js';
+import { watermarkIt } from 'easy-watermark';
 
 watermarkIt({
     el: '.wrapper', // a DOM selector or a DOM Object
