@@ -14,3 +14,5 @@ watermarkIt({
     color: 'rgba(0, 0, 0, .5)',  // text color  'rgba(0, 0, 0, .5)' defaulted
 });
 ```
+
+图示：
