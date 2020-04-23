@@ -2,10 +2,10 @@
   "name": "watermarkit",
   "version": "1.0.0",
   "description": "a tool to make a some watermarks for DOM elements.",
-  "main": "./src/watermark-it.js",
+  "main": "./lib/watermark-it.min.js",
   "scripts": {
     "dev": "http-server -c-1 --port 8008",
-    "build": "rollup ./src/watermark-it.js --file ./lib/watermark-it.min.js --format cjs"
+    "build": "rollup ./src/watermark-it.js -o ./lib/watermark-it.min.js -f es"
   },
   "repository": {
     "type": "git",

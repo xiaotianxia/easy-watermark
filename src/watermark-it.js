@@ -38,14 +38,10 @@ export const watermarkIt = options => {
     CanvasCtx.fillText(text, - Math.sin(rotateAngle) * height + dis, Math.cos(rotateAngle) * height);
     CanvasCtx.rotate(rotateAngle);
     const dataURL = canvas.toDataURL('image/png');
-    console.log(dataURL);
-
     const originalStyle = `background-image: url(${dataURL});background-repeat: repeat;`;
-
     $wrapper.setAttribute('style', originalStyle);
-
     document.body.removeChild(canvas);
-
+    
     const MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
     let observer = new MutationObserver(function () {
         if ($wrapper.getAttribute('style') !== originalStyle) {
