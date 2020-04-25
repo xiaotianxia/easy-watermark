@@ -1,11 +1,11 @@
 {
   "name": "easy-watermark",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a tool to make a some watermarks for DOM elements.",
-  "main": "./lib/watermark-it.min.js",
+  "main": "./lib/easy-watermark.min.js",
   "scripts": {
     "dev": "http-server -c-1 --port 8008",
-    "build": "rollup ./src/watermark-it.js -o ./lib/watermark-it.min.js -f es"
+    "build": "rollup ./src/easy-watermark.js -o ./lib/easy-watermark.min.js -f es"
   },
   "repository": {
     "type": "git",
