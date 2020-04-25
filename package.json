@@ -1,6 +1,6 @@
 {
   "name": "easy-watermark",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a tool to make a some watermarks for DOM elements.",
   "main": "./lib/easy-watermark.min.js",
   "scripts": {
@@ -17,7 +17,12 @@
     "url": "https://github.com/xiaotianxia/watermarkIt/issues"
   },
   "homepage": "https://github.com/xiaotianxia/watermarkIt#readme",
+  "keywords": [
+    "watermark",
+    "watermarks",
+    "水印"
+  ],
   "dependencies": {
-    "easy-watermark": "^1.0.1"
+    "easy-watermark": "^1.0.2"
   }
 }

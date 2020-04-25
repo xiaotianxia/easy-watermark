@@ -6,3 +6,10 @@ easy-watermark@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/easy-watermark/-/easy-watermark-1.0.1.tgz#88966911ba3203358bdc4e936ec6c83dba055db2"
   integrity sha512-Itrf5ZmSA0s/moYZyHGRMD2i9qBB4TojFtEd5/gx55W1LC8+/+IBK34+LcaBMgNAXzoMCt0QS98wYiVsxrl9dg==
+
+easy-watermark@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/easy-watermark/-/easy-watermark-1.0.2.tgz#117edcba6e480ecf91646d8b3382a85450dc6e28"
+  integrity sha512-WO7lR6IhTfj+zog0Uz3B/TI0tGh0zznjiA7d6nSSn1I+ei3PObkWQ2cN7SEKR8hR8I84sQqGc3AaZsZfje8YKA==
+  dependencies:
+    easy-watermark "^1.0.1"
