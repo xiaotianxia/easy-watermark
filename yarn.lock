@@ -13,3 +13,10 @@ easy-watermark@^1.0.2:
   integrity sha512-WO7lR6IhTfj+zog0Uz3B/TI0tGh0zznjiA7d6nSSn1I+ei3PObkWQ2cN7SEKR8hR8I84sQqGc3AaZsZfje8YKA==
   dependencies:
     easy-watermark "^1.0.1"
+
+easy-watermark@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/easy-watermark/-/easy-watermark-1.0.3.tgz#a715639e382fe3113dce4252d29439d454f50ab3"
+  integrity sha512-Zh6h8iiSop4eAdP+944IkssO+w6jo15YxYSo81a5HEY3M4lQjyxNtyfInKFGnEax+ZetkOjtbGlAhgoq90kO2Q==
+  dependencies:
+    easy-watermark "^1.0.2"

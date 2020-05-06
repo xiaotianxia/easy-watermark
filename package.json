@@ -1,6 +1,6 @@
 {
   "name": "easy-watermark",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a tool to make a some watermarks for DOM elements.",
   "main": "./lib/easy-watermark.min.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "水印"
   ],
   "dependencies": {
-    "easy-watermark": "^1.0.2"
+    "easy-watermark": "^1.0.3"
   }
 }

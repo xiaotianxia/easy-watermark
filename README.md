@@ -9,7 +9,7 @@ npm install easy-watermark
 import { watermarkIt } from 'easy-watermark';
 
 watermarkIt({
-    el: '.wrapper', // a DOM selector or a DOM Object
+    el: '.wrapper', // a DOM selector (for all nodes with this selector) or a DOM Object
     text: `ABCabc 123 ${new Date().toLocaleString()}`, // watermark text
     width: 300,  // image width, optional,200 defaulted
     height: 200, // image height,optional, 200 defaulted
