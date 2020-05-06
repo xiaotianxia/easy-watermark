@@ -23,6 +23,6 @@
     "水印"
   ],
   "dependencies": {
-    "easy-watermark": "^1.0.3"
+    "easy-watermark": "^1.0.4"
   }
 }
