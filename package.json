@@ -1,6 +1,6 @@
 {
   "name": "easy-watermark",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "a tool to make a some watermarks for DOM elements.",
   "main": "./lib/easy-watermark.min.js",
   "scripts": {

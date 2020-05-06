@@ -6,6 +6,7 @@ npm install easy-watermark
 ## usage
 
 ```html
+<!-- html -->
 <div class="wrapper watermark">
     <div class="item">1</div>
     <div class="item">2</div>
@@ -23,6 +24,7 @@ npm install easy-watermark
 ```
 
 ```js
+// js
 import { watermarkIt } from 'easy-watermark';
 
 watermarkIt({
