@@ -38,5 +38,4 @@ watermarkIt({
 ```
 
 ## example
-![example]
-(https://github.com/xiaotianxia/watermarkIt/blob/master/test/eg.png?raw=true)
+<img src="https://gitee.com/hhxiaotianxia/easy-watermark/raw/master/test/eg.png" width="400">
