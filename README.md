@@ -30,10 +30,10 @@ import { watermarkIt } from 'easy-watermark';
 watermarkIt({
     el: '.watermark', // a DOM selector (for all nodes with this selector) or a DOM Object
     text: `ABCabc 123 ${new Date().toLocaleString()}`, // watermark text
-    width: 300,  // image width, optional,200 defaulted
-    height: 200, // image height,optional, 200 defaulted
-    fontSize: 14, // text font size, optional,1 defaulted
-    color: 'rgba(0, 0, 0, .5)',  // text color, optional, 'rgba(0, 0, 0, .5)' defaulted
+    width: 300,  // image width, optional,200 default
+    height: 200, // image height,optional, 200 default
+    fontSize: 14, // text font size, optional,1 default
+    color: 'rgba(0, 0, 0, .5)',  // text color, optional, 'rgba(0, 0, 0, .5)' default
 });
 ```
 
